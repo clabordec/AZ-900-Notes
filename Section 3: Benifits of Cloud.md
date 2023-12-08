@@ -208,3 +208,136 @@ Availability by itself can also be called uptime.
 - For example, what use is a calculator that can answer every question with the wrong answer?
 - Availability is an appearance to end users
 - Reliability is the underlying truth
+
+
+<br>
+<br>
+
+
+## Predictability
+
+- The ability to forecast and control the performance and behavior of a system
+- Includes the ability to predict the future costs
+
+<br>
+
+### Why is is Needed
+
+- Predictability gives you the confidence that the system will continue to perform at the expected level in the future
+- And of course that you won't get a crazy bill unexpectedly
+
+<br>
+
+### How is it Achieved
+
+- Auto-scaling
+- Load Balancing
+- Different instance types, sizes, pricing tiers
+- Cost management tools
+- API
+- Pricing calculators
+
+<br>
+<br>
+
+## Security
+
+- Cloud providers are obviously massive targets for hackers, and so they righly spend a lot of time, money and effort on platform security
+- Cloud providers go through security audits and compliance certifications
+- And provide customers (you) the tools they need to enable and monitor security with their own applications/data
+
+<br>
+
+### Why is it Needed
+
+- Security is a fundamental challenge in IT
+- You want confidence that your cloud provider cannot easily be defeated by hackers and those with malicious intent
+
+<br>
+
+### How is it Achieved
+
+- Industry standard compliance certifications
+- Microsoft Security Response Center (MSRC)
+- Always-on DDoS
+- Azure Policy & Blueprint
+- Role based access control (RBAC)
+- Azure Active Directory
+- Always up-to-date platforn services
+- Update management
+- Encryption by default
+- Dozens of security services like firewall
+
+
+<br>
+<br>
+
+
+## Governance
+
+- How your organization does business
+- The process of defining, implementing, and monitoring a framework of policies that guides an organization's cloud operations
+
+<br>
+
+### Why is it Needed
+
+- Your company wants to ensure it's policies are followd in the cloud
+- Includes basic auditing and reporting, as well as enforcement
+- You want to be compliant with industry standards such as HIPPA or PCC or GDPR
+
+<br>
+
+### How is it Achieved
+
+- Azure Policy & Blueprints
+- Management groups
+- Custom roles
+- Soft delete
+- Guides and best practices such as Cloud Adoption Framework
+
+
+<br>
+<br>
+
+
+## Manageability
+
+- Management of the cloud
+- Management in the cloud
+
+<br>
+
+### Management of the Cloud
+
+- Templates
+- Automation
+- Scaling
+- Monitoring and alerts
+- Self-healing
+
+<br>
+
+### Management in the Cloud
+
+- Web portal
+- Command line interface and scripts
+- APIs
+- PowerShell scripts
+
+<br>
+
+### Why is it Needed
+
+- How easy it is to work with your applications in the cloud impacts cost, performance, security and other priorities
+- Different cloud vendors are going to be easier or harder to work with
+
+<br>
+
+### How is it Achieved
+
+- Azure Portal, CLI, PowerShell, Cloud Shell, REST APIs, and other programmatic methods
+- Consolidated monitoring and alerting system
+- Ability to use ARM templates, Bicep, Terraform, etc
+- Autoscaling of most types of compute resources
+ 
