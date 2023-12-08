@@ -194,6 +194,9 @@ Availability by itself can also be called uptime.
 ### How is it Achieved
 
 - Auto-scaling
+- Multi-region deployments
+- Data backup and replication
+- Health probes and self-healing
 
 <br>
 
