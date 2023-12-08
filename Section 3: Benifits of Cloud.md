@@ -65,12 +65,14 @@ Availability by itself can also be called uptime.
 
 
 <br>
+<br>
 
 
 ## Scalability
 
 - The ability of a system to accommodate increasing demand by adding or removing resources as needed.
 
+<br>
 
 ### Why is it Needed
 
