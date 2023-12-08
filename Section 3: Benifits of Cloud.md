@@ -102,3 +102,25 @@ Availability by itself can also be called uptime.
 - Increase the amount of memory, the number of CPUs
 - There is an upper limit
 - Azure - 96 vCPUs, 384 GB memory
+- Does not improve availability
+
+<br>
+
+### Horizontal Scaling
+
+- Also called <i>"scaling out"</i> or <i>"scaling in"</i>
+- Adding more servers to a system
+- No limits to scaling
+- Additional complexities for load balancing
+- Can improve availability
+
+<br>
+
+### Impact on System Cost
+
+- Adding more resources to a system adds to cost
+- Reducing resources can reduce cost
+- Having a scalable system allows for a system to be perfected sized
+- This optimizes the cost by reducing wasted computing resources
+
+
