@@ -78,4 +78,27 @@ Availability by itself can also be called uptime.
 
 - It allows a system to adapt to changing usage patterns and handle increased traffic without requiring changes to the application code or system design.
 
+<br>
 
+### Does Traffic Fluctuate
+
+- Some businesses have traffic that fluctates based on time of day of the year
+- E-commerce websites have increased traffic on Black Friday
+- School registrations are busy in September
+- Tax systems are busy in April or depending on where you live
+
+<br>
+
+### The $1M Question
+
+- Can you expand the capacity of a system very easily, by adding more servers?
+- Or will it be massive undertaking to do that?
+
+<br>
+
+### Vertical Scaling
+- Also called <i>"scaling up"</i> or <i>"scaling down"</i>
+- Adding more resources to a single server
+- Increase the amount of memory, the number of CPUs
+- There is an upper limit
+- Azure - 96 vCPUs, 384 GB memory
