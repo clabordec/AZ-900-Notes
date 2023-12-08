@@ -62,3 +62,18 @@ Availability by itself can also be called uptime.
   - Test that disaster recovery plan / fire drills!
   - Load Testing
     - Send hundreds of concurrent users to your application, finding where that capacity limit is, find out how many users at once can your application can handle, this will help fix any bottlenecks to improve the efficiency of your application, rewrite that code, add additional servers, auto scaling etc. Then push the boundary to get more and more concurrent users in your application.
+
+
+<br>
+
+
+## Scalability
+
+- The ability of a system to accommodate increasing demand by adding or removing resources as needed.
+
+
+### Why is it Needed
+
+- It allows a system to adapt to changing usage patterns and handle increased traffic without requiring changes to the application code or system design.
+
+
