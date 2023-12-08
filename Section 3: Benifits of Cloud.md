@@ -124,3 +124,84 @@ Availability by itself can also be called uptime.
 - This optimizes the cost by reducing wasted computing resources
 
 
+<br>
+<br>
+
+
+## Elasticity
+
+- The ability of a system to quickly and easily scale up or down the amount of resources that a system uses in response to changing demand
+
+<br>
+
+### Quickly and Easily
+
+- Has to involve some sort of automation
+- Often called "autoscaling" in cloud computing
+- The system monitors some metric (such as CPU utilization) to determine how busy a system us
+- Adds resources when it exceeeds a limit for being busy
+- Remove resources when it falls below a limit for being not busy
+
+<br>
+
+### Why is it Needed
+
+- More efficient and cost-effective use of resources
+- Minimizes computing "waste" - resources paid for and not used
+- Self-hosted systems tend to have a large percentage of "over-provisioned" resources for anticipated future growth
+
+<br>
+
+### Save Here, Spend There
+
+- Also have the potential to have a minimum capacity higher than you could afford if you had a static provisioning of resources
+
+
+<br>
+<br>
+
+
+## Reliability
+
+### All Three Relating to High Quality Service
+
+- Availability
+- Reliablity
+- Predictability
+
+<br>
+
+### Reminder: Availability
+
+- The ability of a system to be accessible and usable by users when they need it
+
+
+### Reliability
+
+- The ability of a system to perform its intended function without interruption and with a high degree of accuracy
+- How dependable a system is
+- The ability of a system to perform its intended function without interruption and with a high degree of accuracy
+
+<br>
+
+### Why is it Needed
+
+- You have to trust that your cloud provider is doing everything it can to make its platform reliable
+- This includes transparency during service issues
+
+<br>
+
+### How is it Achieved
+
+- Auto-scaling
+
+<br>
+
+### Availability vs Reliability
+
+- A system can be highly available to users
+- In that it responds instantly to every request
+- The system itself might be highly unreliable
+- For example, what use is a calculator that can answer every question with the wrong answer?
+- Availability is an appearance to end users
+- Reliability is the underlying truth
