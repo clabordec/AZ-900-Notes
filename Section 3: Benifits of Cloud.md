@@ -27,3 +27,8 @@ Availability by itself can also be called uptime.
 <br>
 
 ## Methods to Avoid Planned Outage
+
+- Gradual deployment strategy
+  - 1-10-100-etc
+    - Company with hundreds or thousand don't deploy all servers at once, they'll deploy to just a handful of servers maybe one server, then they'll deploy to a few dozen servres or a hundred servers, and then they will grow to being the entire application.
+  - Testing and monitoring of deployment
