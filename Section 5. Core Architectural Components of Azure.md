@@ -1,5 +1,9 @@
 # Core Azure Architecture
 
-## Azure Regions, Region Pairs and Sovereign Regions
+## Azure Regions 
+## Region Pairs 
+## Sovereign Regions
+
+<br>
 
 ### Regions
