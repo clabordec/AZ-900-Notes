@@ -1,4 +1,4 @@
-## Cloud Service Types
+# Cloud Service Types
 
 The 3 types of cloud services
 
