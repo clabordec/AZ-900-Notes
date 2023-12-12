@@ -103,5 +103,27 @@ The 3 types of cloud services
 
 ![image](https://github.com/clabordec/AZ-900-Notes/assets/72324462/69dad76e-5a9d-4838-a71f-8811d47ac488)
 
+<br>
+<br>
+<br>
+
+# Serverless
+
+- Some services in Azure have a "Serverless" option
+- Serverless is effectively a different pricing model
+- Paying for service not renting hardware
+
+<br>
+<br>
+
+## Serverless Services
+
+- Functions
+- Container Apps
+- Kubernetes
+- SQL Database
+- Cosmos DB
+
+
 
 
