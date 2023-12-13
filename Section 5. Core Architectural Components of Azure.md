@@ -83,7 +83,7 @@
 
 ### Regions with Availability Zones
 
-- <b><u>The Americas</u></b>
+- <b><u>The Americas<u></b>
 - Brazil South
 - Canada Central
 - Central US - East US - East US 2
