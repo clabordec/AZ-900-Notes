@@ -70,3 +70,22 @@
 - Adhere to different compliance standards
 
 <br>
+<br>
+<br>
+
+
+# Availability Zones
+
+## Azure availability zones are physically seperate locations within each Azure region
+## Not every region supports Availability Zones
+
+<br>
+
+### Regions with Availability Zones
+
+- <b>The Americas</b>
+- Brazil South
+- Canada Central
+- Central US - East US - East US 2
+- South Central US - West US 2 - West US 3
+- US Gov Virginia
