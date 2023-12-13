@@ -165,3 +165,78 @@
 
 
 ## Some services give you the choice between zonal and zone-rediundant
+
+<br>
+<br>
+<br>
+
+# Resources & Resource Groups
+
+### Resources
+
+- A generic word to represent an Azure service that you have access to, such as a specific Virtual Machine, Storage Account, or Database
+- You can create a resource in many different ways - Azure Portal, CLI, OowerShell, ARM Template, etc
+- Each resource has a name created by you
+- Sometimes it has to be unique, sometimes not
+- Generally, you indicate the region where they are created
+
+<br>
+
+### All Resources
+
+- A brand new subscription is created with no resources
+- Most resources have costs associated with them
+- The resource is associated with one (and only one) subscription, to which the cost gets billed
+
+<br>
+
+### Resource Group
+
+- A logical grouping of resources
+- Resource Group associated with a region, which can be different than the resources it contains
+- All services in a resource group should have a similar lifecycle - deploy together, delete together
+
+<br>
+
+### Resource & Group
+
+- All resources must belong to one and only one resource group
+- Permissions can be assigned at the resource group level
+- There is no security boundary offered by a resource group for communications
+
+<br>
+<br>
+<br>
+
+# Subscriptions
+
+### What are Subscriptions
+
+- The bulling unit within Azure
+- Always a payment method associated with a subscription
+- Users can have access to more than one subsciption, and different roles
+
+<br>
+
+### Subscription Plans
+
+- Free plan - $200 credits first 30 days
+  - Can only have one
+- Pay as you Go - billed to credit card
+- Enterprise Agreement - EA
+- Free credits - MSDN, startup plans
+
+<br>
+
+### Multiple Subscriptions
+
+- Some companies can chooes to have multiple subscriptions
+- Can be used to seperate out business units within an organiztion - e.g. Sales, IT, Finance
+- Or seperate by geography - e.g. North America, Europe, Asia
+
+
+<br>
+<br>
+
+
+## It's possible to operate an entire organization on a single subscription
