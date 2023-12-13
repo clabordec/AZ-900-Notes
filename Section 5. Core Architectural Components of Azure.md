@@ -47,3 +47,26 @@
 - USA         East US 2 - Central US
 - USA         North Central US - South Central US
 - Brazil      Brazil South -> South Central US: one way pair
+
+<br>
+
+### When you create a resource in Azuree, you have the choice of where to deploy it to
+
+<br>
+
+### 60+ regions but most of them are not available to everyone
+
+
+<br>
+<br>
+
+
+## Sovereign Regions
+
+### Sovereign Azure
+
+- These are not connected to the Azure Public Cloud
+- Require approval to join / create a subscription
+- Adhere to different compliance standards
+
+<br>
