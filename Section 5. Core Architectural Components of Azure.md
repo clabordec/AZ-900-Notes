@@ -89,3 +89,79 @@
 - Central US - East US - East US 2
 - South Central US - West US 2 - West US 3
 - US Gov Virginia
+
+<br>
+
+- <b><ins>Europe</ins></b>
+- France Central
+- Germany West Central
+- North Europe - West Europe
+- Norway East
+- UK South
+- Sweden Central
+- Switzerland North
+
+<br>
+
+- <b><ins>Middle East</ins></b>
+- Qatar Central
+- UAE North
+
+<br>
+
+- <b><ins>Africa</ins></b>
+- South Africa North
+
+<br>
+
+- <b><ins>Asia Pacific</ins></b>
+- Austrailia East
+- Central India
+- Japan East
+- Korea Central
+- Southeast Asia - East Asia
+- China North 3
+
+
+<br>
+<br>
+
+
+## Not every service supports Availability Zones
+
+### Three Types of AZ Services
+
+- Zonal Services
+- Zone-Redundant Services
+- Always Available Services
+
+<br>
+
+### Zonal Services
+
+- You can choose a specific Availability Zone to deploy the service too
+- You then should deploy a duplicate service to another zone to achieve resiliency
+- E.g: Virtual Machines
+
+<br>
+
+### Zone-Redundant Services
+
+- Automatically deployed across zones for you
+- You don't have to confifure it
+- E.g: Azure SQL Database
+
+<br>
+
+### Always Available Services
+
+- These are global services and Microsoft takes care of the ensuring that they are always on
+- Also called "Non-regional services"
+- E.g: Azure Portal, Azure Active Directory, Azure Front Door
+
+
+<br>
+<br>
+
+
+## Some services give you the choice between zonal and zone-rediundant
